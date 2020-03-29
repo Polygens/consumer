@@ -3,7 +3,7 @@ package config
 import (
 	"encoding/json"
 
-	"github.com/go-playground/validator"
+	"github.com/go-playground/validator/v10"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/viper"
 )
